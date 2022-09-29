@@ -1,3 +1,5 @@
+/* Css style for html.index */
+
 .body1{
     background-color: white;
 }
@@ -8,4 +10,13 @@
 }
 .ul1{
     color: orange;
-
+}
+a:link{
+    color: blue;
+}
+a:visited{
+    color: green;
+}
+a:hover{
+    color: pink;
+}
