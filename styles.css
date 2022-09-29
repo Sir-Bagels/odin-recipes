@@ -1,8 +1,10 @@
 .body1{
-    background-color: blue;
+    background-color: white;
 }
 .head1{
     color: orange;
+    text-align: center;
+    font-size: 80px;
 }
 .ul1{
     color: orange;
