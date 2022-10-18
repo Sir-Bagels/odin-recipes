@@ -38,6 +38,7 @@
     color: black;
     font-weight: bold;
     text-decoration: none;
+    
 }
 .button3{
     display: inline-block;
@@ -49,6 +50,7 @@
     color: black;
     font-weight: bold;
     text-decoration: none;
+    
 }
 .ul1{
     color: orange;
@@ -57,22 +59,27 @@
 a:link{
     color: blue;
 }
-a:visited{
-    color: green;
-}
+
+
 a:hover{
     color: pink;
 /* Css style for Runza*/    
+}
+.link{
+    text-decoration: none;
+    color: orange;
 }
 .headingrunza{
     text-align: center;
     color: brown;
     font-size: 80px;
+    text-decoration: none;
     
 }
 .runzapic{
     display: block;
     margin-left: auto;
     margin-right: auto;
+    text-decoration: noneS;
     
 }
