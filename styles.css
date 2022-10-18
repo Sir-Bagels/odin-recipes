@@ -1,17 +1,54 @@
 /* Css style for html.index */
 
 .body1{
-    background-color: White; 
+    background-color: black; 
+}
+.top{
+    background-color: blueviolet;
+
 }
 .head1{
-    border: 2px solid black;
-    background-color: black;
+    
     position: relative;
     border-radius: 30px;
     border-width: 10px;
     color: orange;
     text-align: center;
     font-size: 80px;
+}
+.button1{
+    display: inline-block;
+    background-color: yellow;
+    border-radius: 15px;
+    border:solid black;
+    padding: 15px 25px;
+    font-size: 150%;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+    
+}
+.button2{
+    display: inline-block;
+    background-color: yellow;
+    border-radius: 15px;
+    border:solid black;
+    padding: 15px 25px;
+    font-size: 150%;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+.button3{
+    display: inline-block;
+    background-color: yellow;
+    border-radius: 15px;
+    border:solid black;
+    padding: 15px 25px;
+    font-size: 150%;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
 }
 .ul1{
     color: orange;
